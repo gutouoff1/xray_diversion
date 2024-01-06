@@ -1,8 +1,10 @@
 #### BILIBILITV
-`bilibili.tv`
-
+```shell
+"bilibili.tv"
+```
 #### VIU
-'''shell
+
+```shell
 "viu.tv",
 "viu.com",
 "viu.now.com",
@@ -15,4 +17,4 @@
 "firebaseio.com",
 "jwplayer.com",
 "cloudfront.net"
-'''
+```
