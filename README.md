@@ -10,5 +10,6 @@
 
 [日本地区](https://github.com/gutouoff1/xray_diversion/blob/main/%E6%97%A5%E6%9C%AC.md)
 
-[北美地区]()
+[北美地区](https://github.com/gutouoff1/xray_diversion/blob/main/%E5%8C%97%E7%BE%8E.md)
 
+[英国地区]（）
