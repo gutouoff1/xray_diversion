@@ -4,7 +4,7 @@
 - 各流媒体排序为 [FFQ测速](https://t.meFFQMiaokoBot) fulltest中排序
 - 如有遗漏/错误欢迎反馈
 ----
-[跨国/工具类](https://github.com/gutouoff1/xray_diversion/blob/main/%E8%B7%A8%E5%9B%BD_%E5%B7%A5%E5%85%B7.md)
+[跨国/工具/AI类](https://github.com/gutouoff1/xray_diversion/blob/main/%E8%B7%A8%E5%9B%BD_%E5%B7%A5%E5%85%B7.md)
 
 [港澳台地区](https://github.com/gutouoff1/xray_diversion/blob/main/%E6%B8%AF%E6%BE%B3%E5%8F%B0.md)
 
@@ -12,4 +12,4 @@
 
 [北美地区](https://github.com/gutouoff1/xray_diversion/blob/main/%E5%8C%97%E7%BE%8E.md)
 
-[英国地区]（）
+[英国地区](https://github.com/gutouoff1/xray_diversion/blob/main/%E8%8B%B1%E5%9B%BD.md)
