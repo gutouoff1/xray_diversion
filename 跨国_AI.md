@@ -284,6 +284,7 @@ shops-disney.com
 
 
 ----
+#AI
 #### ChatGPT
 ```shell
 "openai.com",
@@ -316,5 +317,42 @@ shops-disney.com
 "bingapis.com",
 "bingforbusiness.com"
 ```
+#### Copilot
+```shell
+"th.bing.com",
+"www.bingapis.com",
+"sapphire.api.microsoftapp.net",
+"prod.rewardsplatform.microsoft.com",
+"c.clarity.ms",
+"c.bing.com",
+"sydney.bing.com",
+"www.clarity.ms",
+"p.clarity.ms",
+"dealczars.bing-shopping.microsoft-falcon.io",
+"shopping.bing-shopping.microsoft-falcon.io",
+"cdn.jsdelivr.net",
+"logincdn.msauth.net",
+"account.live.com",
+"acctcdn.msauth.net",
+"odc.officeapps.live.com",
+"substrate.office.com",
+"ssl.bing.com",
+"services.bingapis.com",
+"location.microsoft.com",
+"api.msn.com",
+"gateway.bingviz.microsoftapp.net",
+"in.appcenter.ms",
+"www.bing.com",
+"self.events.data.microsoft.com"
+```
+#### Google Bard
+```shell
+"bard.google.com"
+```
+----
+其他
 #### Spotify
-暂不明确
+```shell
+"spotify.com",
+"scdn.co"
+```
