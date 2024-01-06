@@ -1,0 +1,94 @@
+#### abema
+```shell
+"abema.io",
+"abema.tv",
+"ds-linear-abematv.akamaized.net",
+"linear-abematv.akamaized.net",
+"ds-vod-abematv.akamaized.net",
+"vod-abematv.akamaized.net",
+"ameba.jp",
+"hayabusa.io",
+"mobile-collector.newrelic.com",
+"vod-abematv.akamaized.net",
+"bucketeer.jp",
+"abema.adx.promo",
+"hayabusa.media"
+```
+#### DAM
+```shell
+"clubdam.com"
+```
+#### DMM
+```shell
+"dmm-extension.com",
+"dmm.co.jp",
+"dmm.com",
+"videomarket.jp",
+"p-smith.com",
+"vmdash-cenc.akamaized.net",
+"img.vm-movie.jp",
+"bam.nr-data.net"
+```
+#### FOD
+```shell
+"fujitv.co.jp",
+"stream.ne.jp"
+```
+#### music.jp
+```shell
+"music-book.jp",
+"overseaauth.music-book.jp"
+```
+#### niconico
+```shell
+"dmc.nico",
+"nicovideo.jp",
+"nimg.jp",
+"socdm.com"
+```
+#### PCR
+```shell
+暂不明确
+```
+#### TVer
+```shell
+"tver.jp",
+"edge.api.brightcove.com",
+"players.brightcove.net"
+```
+#### VideoMarket
+```shell
+"videomarket.jp",
+"p-smith.com",
+"vmdash-cenc.akamaized.net",
+"img.vm-movie.jp",
+"bam.nr-data.net"
+```
+#### Radiko
+```shell
+"radiko.jp",
+"radionikkei.jp",
+"smartstream.ne.jp"
+```
+#### Telasa
+```shell
+"telasa.jp",
+"kddi-video.com",
+"videopass.jp",
+"d2lmsumy47c8as.cloudfront.net"
+```
+#### 赛马娘
+```shell
+"prd-storage-umamusume.akamaized.net",
+"cygames.jp"
+```
+#### projectsekai
+暂不明确，可尝试
+```shell
+"geosite:projectsekai"
+```
+#### unext
+```shell
+"unext.jp",
+"nxtv.jp"
+```
