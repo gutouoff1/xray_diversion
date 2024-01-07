@@ -152,7 +152,7 @@
 "thisispolaris.com",
 "watchdisneyfe.com",
 "bamgrid.com",
-"disney.api.edge.bamgrid.com
+"disney.api.edge.bamgrid.com",
 "execute-api.us-east-1.amazonaws.com",
 "bam.nr-data.net",
 "bam-6.nr-data.net",
