@@ -14,7 +14,8 @@
 ```shell
 "netflix.ca",
 "netflixinvestor.com",
-"netflixtechblog.com", "netflix.com.edgesuite.net",
+"netflixtechblog.com",
+"netflix.com.edgesuite.net",
 "netflix.com",
 "netflix.net",
 "nflxext.com",
